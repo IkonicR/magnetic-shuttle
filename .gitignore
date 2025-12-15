@@ -1,0 +1,15 @@
+# Ignore macOS files
+.DS_Store
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore build artifacts
+*.zip
+dist/
+
+# Ignore node modules (if ever added)
+node_modules/
